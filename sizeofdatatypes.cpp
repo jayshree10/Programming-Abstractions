@@ -1,5 +1,5 @@
 #include<iostream>
-#include<limits.h>//for int,char macros(macros are INT_MAX type of things)
+#include<limits.h>//for int,char macros
 #include<float.h> //for float,double macros
 using namespace std;
 
